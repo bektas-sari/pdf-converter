@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Fill PDF Form</title>
+  <link rel="stylesheet" href="pdf_form.css" />
+  <script src="../lib/pdfjs/pdf.min.js"></script>
+</head>
+<body>
+  <h2>Form Doldur</h2>
+  <canvas id="form-canvas"></canvas>
+  <div id="form-fields">
+    <input type="text" placeholder="Adınız" id="name-field" />
+    <input type="text" placeholder="Tarih" id="date-field" />
+    <button id="insert-btn">Ekle</button>
+  </div>
+
+  <script src="pdf_form.js"></script>
+</body>
+</html>
