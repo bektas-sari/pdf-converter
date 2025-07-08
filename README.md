@@ -1,6 +1,7 @@
 # PDF Converter - Chrome Uzantısı 📄
 
-SuperPDF, PDF dosyalarıyla tarayıcı üzerinden etkileşime geçmenizi sağlayan güçlü bir Chrome eklentisidir. PDF dosyalarını görüntüleme, düzenleme, form doldurma, e-imza ekleme, dosya dönüştürme ve yapay zekâ destekli sohbet etme gibi birçok özelliği bir arada sunar.
+SuperPDF, PDF dosyalarıyla tarayıcı üzerinden etkileşime geçmenizi sağlayan güçlü bir Chrome eklentisidir. 
+PDF dosyalarını görüntüleme, düzenleme, form doldurma, e-imza ekleme, dosya dönüştürme ve yapay zekâ destekli sohbet etme gibi birçok özelliği bir arada sunar.
 
 ---
 
@@ -66,6 +67,18 @@ PDF verisi arka planda başarıyla iletilmediğinde bu hata alınabilir.
 
 ### 3. pdfjsLib tanımlı değil hatası
 PDF.js kütüphanesi import edilmemişse veya worker yolu tanımlı değilse bu hata çıkabilir.
+
+---
+
+## 👤 Geliştirici
+
+**Bektas Sari**  
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
